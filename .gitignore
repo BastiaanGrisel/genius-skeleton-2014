@@ -1,3 +1,4 @@
 bin/
 Log*.csv
 DataObjects/
+.metadata/
