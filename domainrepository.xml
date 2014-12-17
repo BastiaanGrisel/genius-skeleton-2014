@@ -14,7 +14,8 @@
                 <profile url="file:etc/templates/partydomain/party7_utility.xml"/>
                 <profile url="file:etc/templates/partydomain/party8_utility.xml"/>
                 <profile url="file:etc/templates/partydomain/party9_utility.xml"/>
-            </domainRepItem>            
+            </domainRepItem>
+            <domainRepItem url="file:etc/templates/Tram/Tram.xml"/>
         </domainRepItem>
         <protocolRepItem/>
         <multiPartyProtocolRepItem/>
