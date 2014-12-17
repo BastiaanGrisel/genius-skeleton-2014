@@ -11,4 +11,5 @@ DataObjects/
 *.fls
 *.out
 *.toc
-
+*.pdf
+*.synctex.gz
