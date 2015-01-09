@@ -13,3 +13,6 @@ DataObjects/
 *.toc
 *.pdf
 *.synctex.gz
+
+## Do not include class files
+*.class
