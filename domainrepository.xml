@@ -15,7 +15,17 @@
                 <profile url="file:etc/templates/partydomain/party8_utility.xml"/>
                 <profile url="file:etc/templates/partydomain/party9_utility.xml"/>
             </domainRepItem>
-            <domainRepItem url="file:etc/templates/Tram/Tram.xml"/>
+            <domainRepItem url="file:etc/templates/Tram/Tram.xml">
+                <profile url="file:etc/templates/Tram/Tram_Profile1.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile2.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile3.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile4.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile5.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile6.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile7.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile8.xml"/>
+                <profile url="file:etc/templates/Tram/Tram_Profile9.xml"/>
+            </domainRepItem>
         </domainRepItem>
         <protocolRepItem/>
         <multiPartyProtocolRepItem/>

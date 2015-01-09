@@ -1,0 +1,74 @@
+<utility_space> 
+<objective name="Tram" index="0" description="" etype="objective" type="objective"> 
+<issue vtype="discrete" name="Overhead line" index="1" etype="discrete" type="discrete"> 
+<item evaluation="1" index="1" value="yes"> 
+</item> 
+<item evaluation="2" index="2" value="no"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Bridge height" index="2" etype="discrete" type="discrete"> 
+<item evaluation="1" index="1" value="high"> 
+</item> 
+<item evaluation="2" index="2" value="middle"> 
+</item> 
+<item evaluation="3" index="3" value="low"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Traffic frequency" index="3" etype="discrete" type="discrete"> 
+<item evaluation="1" index="1" value="1 ph"> 
+</item> 
+<item evaluation="2" index="2" value="2 ph"> 
+</item> 
+<item evaluation="3" index="3" value="4 ph"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Budget" index="4" etype="discrete" type="discrete"> 
+<item evaluation="2" index="1" value="1 mln"> 
+</item> 
+<item evaluation="3" index="2" value="2 mln"> 
+</item> 
+<item evaluation="1" index="3" value="3 mln"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Tram carriages" index="5" etype="discrete" type="discrete"> 
+<item evaluation="2" index="1" value="new"> 
+</item> 
+<item evaluation="1" index="2" value="used"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Destination" index="6" etype="discrete" type="discrete"> 
+<item evaluation="3" index="1" value="TU Delft campus"> 
+</item> 
+<item evaluation="2" index="2" value="Delft Zuid"> 
+</item> 
+<item evaluation="1" index="3" value="Rotterdam"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Year of delivery" index="7" etype="discrete" type="discrete"> 
+<item evaluation="3" index="1" value="2016"> 
+</item> 
+<item evaluation="2" index="2" value="2017"> 
+</item> 
+<item evaluation="1" index="3" value="2018"> 
+</item> 
+</issue> 
+<weight index="1" value="0.15025892180540312"> 
+</weight> 
+<weight index="2" value="0.12518116741979288"> 
+</weight> 
+<weight index="3" value="0.22226207664362524"> 
+</weight> 
+<weight index="4" value="0.17013766408267475"> 
+</weight> 
+<weight index="5" value="0.07906221062183506"> 
+</weight> 
+<weight index="6" value="0.20008551345942238"> 
+</weight> 
+<weight index="7" value="0.053012445967246476"> 
+</weight> 
+</objective> 
+<discount_factor value="1.0"> 
+</discount_factor> 
+<reservation value="0.0"> 
+</reservation> 
+</utility_space> 
